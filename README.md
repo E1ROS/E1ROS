@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 **Hi there! I'm Ella, but online i go by "eiros"**
 
-<!--
-**E1ROS/E1ROS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **About Me:**  
+- 🎓 University student in the Philippines, majoring in **Computer Science**  
+- 🐍 Currently learning **Python**, with some background in **HTML & CSS**  
+- 🚀 Excited to explore new tech and build cool coding projects  
 
-Here are some ideas to get you started:
+🔍 **What I'm Working On:**  
+- Strengthening my programming fundamentals  
+- Experimenting with small projects to apply what I learn  
+- Connecting with fellow beginners and collaborating on fun ideas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 **Let's Connect!**  
+If you're also a beginner looking to collaborate, feel free to reach out!  
+📩 **Email:** rainellapanis@gmail.com  
+
+💻 _Happy coding!_ (ง'̀-'́)ง 🚀  
