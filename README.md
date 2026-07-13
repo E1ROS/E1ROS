@@ -2,7 +2,7 @@
 
 🌱 **About Me:**  
 - University student in the Philippines
-- Background in **Python**,**C**, **Java** (Object-Oriented Programming), knowledgeable also with **HTML & CSS** (Basic Web Dev) 
+- Background in **Python**, **C**, **Java** (Object-Oriented Programming), knowledgeable also with **HTML & CSS** (Basic Web Dev) 
 - Excited to explore new tech and build cool coding projects  
 
 🔍 **What I'm Working On:**  
