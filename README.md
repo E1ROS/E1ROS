@@ -1,7 +1,7 @@
 **Hi there! I'm Ella, but online i go by "eiros"**
 
 🌱 **About Me:**  
-- University student in the Philippines, majoring in **Computer Science**  
+- University student in the Philippines
 - Currently learning **Python**, with some background in **HTML & CSS**  
 - Excited to explore new tech and build cool coding projects  
 
