@@ -1,7 +1,8 @@
 **Hi there! I'm Ella, but online i go by "eiros"**
 
 🌱 **About Me:**  
-- University student in the Philippines
+- Student in University of the Philippines Los Baños
+- Meta Ads Manager for AKADZON 
 - Background in **Python**, **C**, **Java** (Object-Oriented Programming), knowledgeable also with **HTML & CSS** (Basic Web Dev) 
 - Excited to explore new tech and build cool coding projects  
 
